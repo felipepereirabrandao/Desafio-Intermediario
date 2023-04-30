@@ -59,6 +59,11 @@ p span {
     color: #3F3D56;
 }
 
+#footer span a:hover {
+    
+    color: #828282;
+}
+
 #footer span + span {
     margin-left: 32px;
 }
